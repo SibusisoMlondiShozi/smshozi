@@ -732,9 +732,9 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
-	#intro ul {
-   			 margin-bottom: 0;
-		}		
+		ul {
+    		margin: 0 0 2rem 0;
+		}	
 
 		ul li {
 			padding-left: 0.5em;
@@ -1657,4 +1657,5 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
